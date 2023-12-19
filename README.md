@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eroco
 - 👀 I’m interested in software development (.NET, Linux)
-- 🌱 I’m currently learning Angular & PowerBuilder
+- 🌱 I’m currently learning Docker & PowerBuilder
 <!--
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
